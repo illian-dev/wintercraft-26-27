@@ -22,7 +22,7 @@
 
 @titel = Mods
 @nav = Mods
-@tag = Client
+@tag =
 @aktualisiert =
 @intro = Diese Mods installierst du bei dir selbst (Client). Alle sind optional aber verbessern das Spielerlebnis.
 @buttontext = Download
