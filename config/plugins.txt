@@ -19,10 +19,7 @@
 @intro = Diese Plugins laufen serverseitig und sind für dich als Spieler relevant. Du musst dafür nichts installieren.
 @buttontext = Mehr Infos
 
-[Überleben]
 DeadChest | Wenn du stirbst, werden deine Items in einer Truhe an der Todesstelle gesichert, damit du sie wieder einsammeln kannst.
 SilkTouchSpawner | Spawner lassen sich mit einem Werkzeug mit Behutsamkeit (Silk Touch) abbauen und mitnehmen.
-
-[Komfort]
 Armor Hider | Blendet deine Rüstung optisch aus um deinen Skin zu zeigen. Der Schutz bleibt erhalten.
 EssentialsX | Nützliche Grundbefehle, wie /sethome und /warp.
