@@ -14,7 +14,7 @@
 
 @titel = Plugins auf dem Server
 @nav = Plugins
-@tag = Server
+@tag =
 @aktualisiert =
 @intro = Diese Plugins laufen serverseitig und sind für dich als Spieler relevant. Du musst dafür nichts installieren.
 @buttontext = Mehr Infos
