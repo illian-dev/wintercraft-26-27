@@ -23,7 +23,7 @@
 @intro = Hier findest du alle Clientmods die der Server unterstützt.
 
 [Downloads]
-Mods Downloadlink | https://drive.google.com/drive/folders/1hpdrPP4hLMTvgYIeDQDmLn-xHdx71zeA?usp=drive_link |  
+Mods Downloadlink | https://drive.google.com/drive/folders/1kBUFay-n7g_MM1ejKHf5MDO2ndvQYahh?usp=drive_link |  
 
 [Community]
 Discord | https://discord.gg/vYu4523rQ | 
