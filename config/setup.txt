@@ -27,3 +27,4 @@ Minecraft starten | Öffne den Launcher und wähle die Java Edition. Für diesen
 Fabric installieren | Lade den Installer aus dem *Download*-Bereich herunter und starte diesen. | https://drive.google.com/drive/folders/1D2FDyHPAV2OSH_GzSdUHARrlvLTGz6VW?usp=drive_link | Fabric-Installer
 Mods herunterladen | Lade alle Mods aus der Liste weiter unten herunter und verschiebe sie in den `mods`-Ordner deines Minecraft-Verzeichnisses. | #mods | Zur Mod-Liste
 Server hinzufügen | Starte das Fabric-Profil, gehe auf **Mehrspieler → Server hinzufügen** und trage die Server-IP von oben ein.
+Joine auf Discord | https://discord.gg/vYu4523rQ
