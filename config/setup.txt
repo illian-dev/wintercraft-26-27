@@ -20,7 +20,7 @@
 @nav = Setup
 @tag = Anleitung
 @aktualisiert = 2026-10-10
-@intro = Folge diesen Schritten der Reihe nach. Dauert ungefähr 10 Minuten.
+@intro = Folge diesen Schritten der Reihe nach.
 @buttontext = Öffnen
 
 Minecraft starten | Öffne den Launcher und wähle die Java Edition. Für diesen Server brauchst du Version **26.3**. | https://www.minecraft.net/de-de/download | Minecraft
