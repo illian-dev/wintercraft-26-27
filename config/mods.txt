@@ -1,0 +1,43 @@
+# ============================================================
+#  MODS
+#
+#  Kopfzeilen (optional): @titel, @nav, @tag, @aktualisiert,
+#  @intro, @buttontext  (siehe setup.txt)
+#
+#  Gruppen beginnen mit einer Zeile in eckigen Klammern, danach
+#  optional ein kurzer Erklärtext:
+#    [Notwendig] Ohne diese Mods kannst du nicht joinen
+#
+#  Die Farbe der Gruppe ergibt sich aus dem Namen:
+#    enthält "notwendig" / "pflicht"  -> grün
+#    enthält "erlaubt"                -> blau
+#    enthält "verboten" / "nicht"     -> rot
+#    alles andere                     -> neutral
+#
+#  Jede Mod ist eine Zeile:
+#    Name | Beschreibung | Download-Link (optional)
+#
+#  Alle Einträge unten sind Beispiele – einfach ersetzen.
+# ============================================================
+
+@titel = Mods
+@nav = Mods
+@tag = Client
+@aktualisiert = 2026-10-10
+@intro = Diese Mods installierst du bei dir selbst (Client). Der Server braucht dafür nichts extra.
+@buttontext = Download
+
+[Notwendig] Ohne diese Mods kannst du dem Server nicht beitreten
+Fabric API | Basis für fast alle Fabric-Mods. | https://modrinth.com/mod/fabric-api
+
+[Erlaubt] Optional – verbessert Leistung und Komfort
+Sodium | Deutlich mehr FPS durch optimiertes Rendering. | https://modrinth.com/mod/sodium
+Lithium | Weniger Lags bei Entities und Chunks. | https://modrinth.com/mod/lithium
+Iris Shaders | Shader-Unterstützung, funktioniert zusammen mit Sodium. | https://modrinth.com/mod/iris
+Xaero's Minimap | Minimap mit Wegpunkten. | https://modrinth.com/mod/xaeros-minimap
+Mod Menu | Mod-Übersicht und Einstellungen im Hauptmenü. | https://modrinth.com/mod/modmenu
+
+[Verboten] Führt zu Verwarnung oder Bann
+X-Ray & Ore-ESP | Texturpacks oder Mods, die Erze durch Wände zeigen.
+Kill-Aura & Hacked Clients | Alles, was Kämpfe automatisiert oder Vorteile verschafft.
+Auto-Clicker & Makros | Automatisiertes Klicken oder Farmen ohne Anwesenheit.

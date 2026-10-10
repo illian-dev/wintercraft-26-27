@@ -1,0 +1,24 @@
+# ============================================================
+#  NEUIGKEITEN (wie kleine Blog-Beiträge)
+#
+#  Kopfzeilen (optional): @titel, @nav, @tag, @intro
+#
+#  Jeder Beitrag beginnt mit einer Zeile in diesem Format:
+#    ## Titel | Datum (JJJJ-MM-TT) | Label
+#
+#  Darunter folgt der Text. Eine Leerzeile = neuer Absatz.
+#  Im Text möglich:  **fett**   `code`   [Linktext](https://...)
+#
+#  Neueste Beiträge bitte nach oben schreiben.
+#  Zeilen mit # am Anfang sind Kommentare.
+# ============================================================
+
+@titel = Neuigkeiten
+@nav = News
+@tag = Updates
+
+## Neue Mod-Liste online | 2026-10-10 | Update
+Die Mod-Liste wurde überarbeitet. Sodium und Iris sind weiterhin erlaubt und werden für bessere Leistung empfohlen.
+
+## Server startet | 2026-10-01 | Ankündigung
+Der Server ist online! Alle Infos zum Einstieg findest du in der Anleitung oben. Bei Fragen hilft dir der Discord weiter.

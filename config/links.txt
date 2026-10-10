@@ -1,0 +1,32 @@
+# ============================================================
+#  DOWNLOADS & LINKS
+#
+#  Kopfzeilen (optional): @titel, @nav, @tag, @aktualisiert, @intro
+#
+#  Gruppen:  [Gruppenname] optionaler Erklärtext
+#  Einträge: Bezeichnung | Link | Kurzbeschreibung (optional)
+#
+#  Enthält der Gruppenname "download", bekommen die Kacheln
+#  ein Download-Symbol, sonst einen Pfeil.
+#
+#  Eigene Dateien (z. B. ein Resource Pack) kannst du neben
+#  index.html in einen Ordner "downloads" legen und so verlinken:
+#    Resource Pack | downloads/resourcepack.zip | 12 MB
+#
+#  Alle Einträge unten sind Beispiele – einfach ersetzen.
+# ============================================================
+
+@titel = Downloads & Links
+@nav = Links
+@tag = Ressourcen
+@aktualisiert = 2026-10-10
+@intro = Alles Wichtige auf einen Blick.
+
+[Downloads]
+Fabric Installer | https://fabricmc.net/use/installer/ | Mod-Loader für den Client
+Server-Resourcepack | https://example.com/resourcepack.zip | Optional, wird sonst automatisch angeboten
+
+[Community]
+Discord | https://discord.gg/beispiel | Support, Ankündigungen und Chat
+Live-Karte | https://map.beispiel.de | Dynmap des Servers
+Regelwerk | https://beispiel.de/regeln | Bitte einmal komplett lesen

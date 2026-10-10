@@ -1,0 +1,28 @@
+# ============================================================
+#  PLUGINS (laufen auf dem Server)
+#
+#  Aufbau wie bei mods.txt:
+#    [Gruppenname] optionaler Erklärtext
+#    Name | Beschreibung | Link (optional)
+#
+#  Hier stehen nur Plugins, die für Spieler relevant sind.
+#  Admin-Tools (z. B. LuckPerms, WorldEdit, WorldGuard) sind
+#  absichtlich nicht aufgeführt. Spieler müssen Plugins nicht
+#  installieren. Der Link ist optional und zeigt auf die
+#  Plugin-Seite.
+# ============================================================
+
+@titel = Plugins auf dem Server
+@nav = Plugins
+@tag = Server
+@aktualisiert = 2026-10-10
+@intro = Diese Plugins laufen serverseitig und sind für dich als Spieler relevant. Du musst dafür nichts installieren.
+@buttontext = Mehr Infos
+
+[Überleben]
+DeadChest | Wenn du stirbst, werden deine Items in einer Truhe an der Todesstelle gesichert, damit du sie wieder einsammeln kannst.
+SilkTouchSpawner | Spawner lassen sich mit einem Werkzeug mit Behutsamkeit (Silk Touch) abbauen und mitnehmen.
+
+[Komfort]
+Armor Hider | Blendet deine Rüstung optisch aus, der Schutz bleibt erhalten.
+EssentialsX | Nützliche Grundbefehle, zum Beispiel Homes setzen und Teleportanfragen an andere Spieler. | https://essentialsx.net

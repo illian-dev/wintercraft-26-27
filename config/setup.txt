@@ -1,0 +1,30 @@
+# ============================================================
+#  SETUP-ANLEITUNG
+#
+#  Kopfzeilen (optional):
+#    @titel        = Überschrift des Abschnitts
+#    @nav          = Kurzname im Menü oben
+#    @tag          = kleines Label über der Überschrift (leer = ausblenden)
+#    @aktualisiert = Datum der letzten Änderung (JJJJ-MM-TT)
+#    @intro        = Einleitungstext
+#    @buttontext   = Standard-Text für die Buttons
+#
+#  Jede weitere Zeile ist ein Schritt (wird automatisch nummeriert):
+#    Titel | Beschreibung | Link (optional) | Button-Text (optional)
+#
+#  Im Text möglich:  **fett**   `code`   [Linktext](https://...)
+#  Wichtig: Das Zeichen | trennt die Spalten – nicht im Text verwenden.
+# ============================================================
+
+@titel = In 5 Schritten zum Mitspielen
+@nav = Setup
+@tag = Anleitung
+@aktualisiert = 2026-10-10
+@intro = Folge diesen Schritten der Reihe nach. Dauert ungefähr 10 Minuten.
+@buttontext = Öffnen
+
+Minecraft starten | Öffne den Launcher und wähle die Java Edition. Für diesen Server brauchst du Version **1.21.4**. | https://www.minecraft.net/de-de/download | Minecraft
+Fabric installieren | Lade den Fabric-Installer, wähle Minecraft **1.21.4** und klicke auf Installieren. Danach erscheint ein neues Profil im Launcher. | https://fabricmc.net/use/installer/ | Fabric-Installer
+Pflicht-Mods herunterladen | Lade alle Mods aus der Liste „Notwendig“ weiter unten herunter. Sie gehören in den `mods`-Ordner deines Minecraft-Verzeichnisses. | #mods | Zur Mod-Liste
+Optionale Mods prüfen | Alles unter „Erlaubt“ darfst du nutzen, musst du aber nicht. Mods unter „Verboten“ führen zum Ausschluss.
+Server hinzufügen | Starte das Fabric-Profil, gehe auf **Mehrspieler → Server hinzufügen** und trage die Server-IP von oben ein.

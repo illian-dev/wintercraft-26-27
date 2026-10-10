@@ -1,0 +1,52 @@
+# ============================================================
+#  SERVER-EINSTELLUNGEN
+#
+#  - Zeilen mit # am Anfang sind Kommentare (werden ignoriert)
+#  - Format:  schluessel = wert
+#  - Nach dem Speichern genügt ein Neuladen der Seite (F5)
+# ============================================================
+
+
+# --- Allgemein ---------------------------------------------
+name           = Wintercraft 26/27
+untertitel     = Setup-Guide für neue Spieler
+beschreibung   = Hier findest du alles, was du für den Start brauchst: welche Mods Pflicht sind, was erlaubt ist, welche Plugins auf dem Server laufen und wie lange er noch online ist.
+
+
+# --- Verbindung --------------------------------------------
+# Wird groß im Kopfbereich angezeigt, mit "Kopieren"-Button.
+ip             = play.beispiel.de
+version        = 1.21.4
+loader         = Fabric
+serversoftware = Paper
+
+
+# --- Laufzeit / Countdown ----------------------------------
+# Format: JJJJ-MM-TT HH:MM   (Beispiel: 2026-12-31 23:59)
+# "ende" leer lassen = Server läuft unbefristet (kein Countdown)
+# "start" ist optional und steuert den Fortschrittsbalken.
+start          = 2026-10-01 00:00
+ende           = 2026-12-31 23:59
+zeitzone       = Europe/Berlin
+ende_text      = Dieser Server ist abgelaufen. Danke fürs Mitspielen!
+
+
+# --- Aussehen ----------------------------------------------
+# Akzentfarbe als Hex-Code. Helle bis mittlere Farben wirken am besten.
+akzentfarbe    = #7cf5b0
+
+
+# --- Reihenfolge der Abschnitte ----------------------------
+# Mögliche Werte: setup, mods, plugins, links, news
+# Einen Wert weglassen = Abschnitt wird ausgeblendet.
+reihenfolge    = setup, mods, plugins, links, news
+
+
+# --- Live-Status (optional) --------------------------------
+# "ja" zeigt Online/Offline und Spielerzahl an.
+# Funktioniert nur mit einer echten, öffentlich erreichbaren IP.
+status_anzeigen = nein
+
+
+# --- Fußzeile ----------------------------------------------
+footer         = Kein offizielles Minecraft-Produkt. Nicht von Mojang oder Microsoft genehmigt.
