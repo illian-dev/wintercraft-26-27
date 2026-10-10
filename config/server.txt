@@ -10,8 +10,7 @@
 # --- Allgemein ---------------------------------------------
 name           = Wintercraft 26/27
 untertitel     = Willkommen zu
-beschreibung   = Hier findest du alles, was du für den Start brauchst: welche Mods Pflicht sind, was erlaubt ist, welche Plugins auf dem Server laufen und wie lange er noch online ist.
-
+beschreibung   = 
 
 # --- Verbindung --------------------------------------------
 # Wird groß im Kopfbereich angezeigt, mit "Kopieren"-Button.
