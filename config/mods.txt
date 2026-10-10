@@ -23,10 +23,17 @@
 @titel = Mods
 @nav = Mods
 @tag = Client
-@aktualisiert = 2026-10-10
+@aktualisiert =
 @intro = Diese Mods installierst du bei dir selbst (Client). Alle sind optional aber verbessern das Spielerlebnis.
 @buttontext = Download
 
-Fabric API | Basis für fast alle Fabric-Mods. | https://modrinth.com/mod/fabric-api
+Inventroy Profiles Next | Ermöglicht schnelles sortieren und organisieren von Items im Inventar und Kisten. | https://drive.google.com/file/d/1WII6g5it6hEKDYhDmRm6kZB1W33bGuSI/view?usp=drive_link
+Mod Menu | Integriert ein Modmenü in den Einstellungen von Minecraft | https://drive.google.com/file/d/1OAEmZzKrhDtHsTHHCBu8_0tIt_5Nzk9G/view?usp=drive_link
+Xaero Minimap | Integriert eine Minimap in den Minecraft-Client | https://drive.google.com/file/d/1CjPZAYHZm8ToDN5ozQVU-Vns_t0JRgoY/view?usp=drive_link
+Fabric Language Kotlin | Wird von anderen Mods benötigt um korrekt zu funktionieren. | https://drive.google.com/file/d/1PtToGEAkYdHcLY4QA5EHOhBHCbPG4f7E/view?usp=drive_link
+LibIPN | Wird von anderen Mods benötigt um korrekt zu funktionieren. | https://drive.google.com/file/d/1H9jQAiVD8XuCysW0fT0V1bBaTzw-mgpP/view?usp=drive_link
+Fabric API | Wird von anderen Mods benötigt um korrekt zu funktionieren. | https://drive.google.com/file/d/1xgtwKgFBoC1nq7R47t9vgKuAT7jP1jxc/view?usp=drive_link
+Placeholder API | Wird von anderen Mods benötigt um korrekt zu funktionieren. | https://drive.google.com/file/d/1TUAYYy3fei4nEYhfxNOqw-WTQ2ohmKfT/view?usp=drive_link
+
 
 
