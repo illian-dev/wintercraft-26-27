@@ -18,8 +18,8 @@
 
 @titel = In 5 Schritten zum Mitspielen
 @nav = Setup
-@tag = Anleitung
-@aktualisiert = 2026-10-10
+@tag = 
+@aktualisiert = 
 @intro = Folge diesen Schritten der Reihe nach.
 @buttontext = Öffnen
 
