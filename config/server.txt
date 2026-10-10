@@ -15,8 +15,8 @@ beschreibung   = Hier findest du alles, was du für den Start brauchst: welche M
 
 # --- Verbindung --------------------------------------------
 # Wird groß im Kopfbereich angezeigt, mit "Kopieren"-Button.
-ip             = play.beispiel.de
-version        = 1.21.4
+ip             = 5.101.165.10:12000
+version        = 26.3
 loader         = Fabric
 serversoftware = Paper
 
@@ -25,8 +25,8 @@ serversoftware = Paper
 # Format: JJJJ-MM-TT HH:MM   (Beispiel: 2026-12-31 23:59)
 # "ende" leer lassen = Server läuft unbefristet (kein Countdown)
 # "start" ist optional und steuert den Fortschrittsbalken.
-start          = 2026-10-01 00:00
-ende           = 2026-12-31 23:59
+start          = 2026-11-15 10:00
+ende           = 2027-01-15 23:59
 zeitzone       = Europe/Berlin
 ende_text      = Dieser Server ist abgelaufen. Danke fürs Mitspielen!
 
@@ -39,14 +39,14 @@ akzentfarbe    = #7cf5b0
 # --- Reihenfolge der Abschnitte ----------------------------
 # Mögliche Werte: setup, mods, plugins, links, news
 # Einen Wert weglassen = Abschnitt wird ausgeblendet.
-reihenfolge    = setup, mods, plugins, links, news
+reihenfolge    = links, setup, mods, plugins,
 
 
 # --- Live-Status (optional) --------------------------------
 # "ja" zeigt Online/Offline und Spielerzahl an.
 # Funktioniert nur mit einer echten, öffentlich erreichbaren IP.
-status_anzeigen = nein
+status_anzeigen = ja
 
 
 # --- Fußzeile ----------------------------------------------
-footer         = Kein offizielles Minecraft-Produkt. Nicht von Mojang oder Microsoft genehmigt.
+footer         = 
