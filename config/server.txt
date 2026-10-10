@@ -25,7 +25,7 @@ serversoftware = Paper
 # "ende" leer lassen = Server läuft unbefristet (kein Countdown)
 # "start" ist optional und steuert den Fortschrittsbalken.
 start          = 2026-11-15 10:00
-ende           = 
+ende           = 2026-01-15 
 zeitzone       = Europe/Berlin
 ende_text      = Dieser Server ist abgelaufen. Danke fürs Mitspielen!
 
