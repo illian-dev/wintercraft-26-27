@@ -10,7 +10,7 @@
 # --- Allgemein ---------------------------------------------
 name           = Wintercraft 26/27
 untertitel     = Willkommen zu
-beschreibung   = 
+beschreibung   = Um dem Server beitreten zu können musst du whitelisted sein. Schreibe mir dafür auf Discord deinen Namen.
 
 # --- Verbindung --------------------------------------------
 # Wird groß im Kopfbereich angezeigt, mit "Kopieren"-Button.
