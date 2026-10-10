@@ -38,7 +38,7 @@ akzentfarbe    = #7cf5b0
 # --- Reihenfolge der Abschnitte ----------------------------
 # Mögliche Werte: setup, mods, plugins, links, news
 # Einen Wert weglassen = Abschnitt wird ausgeblendet.
-reihenfolge    = links, setup, mods, plugins,
+reihenfolge    = setup, mods, plugins,
 
 
 # --- Live-Status (optional) --------------------------------
