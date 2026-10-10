@@ -24,5 +24,5 @@ DeadChest | Wenn du stirbst, werden deine Items in einer Truhe an der Todesstell
 SilkTouchSpawner | Spawner lassen sich mit einem Werkzeug mit Behutsamkeit (Silk Touch) abbauen und mitnehmen.
 
 [Komfort]
-Armor Hider | Blendet deine Rüstung optisch aus, der Schutz bleibt erhalten.
-EssentialsX | Nützliche Grundbefehle, zum Beispiel Homes setzen und Teleportanfragen an andere Spieler. | https://essentialsx.net
+Armor Hider | Blendet deine Rüstung optisch aus um deinen Skin zu zeigen. Der Schutz bleibt erhalten.
+EssentialsX | Nützliche Grundbefehle, wie /sethome und /warp.
