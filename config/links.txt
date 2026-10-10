@@ -18,15 +18,12 @@
 
 @titel = Downloads & Links
 @nav = Links
-@tag = Ressourcen
-@aktualisiert = 2026-10-10
-@intro = Alles Wichtige auf einen Blick.
+@tag = 
+@aktualisiert = 
+@intro = Hier findest du alle Clientmods die der Server unterstützt.
 
 [Downloads]
-Fabric Installer | https://fabricmc.net/use/installer/ | Mod-Loader für den Client
-Server-Resourcepack | https://example.com/resourcepack.zip | Optional, wird sonst automatisch angeboten
+Mods Downloadlink | https://drive.google.com/drive/folders/1hpdrPP4hLMTvgYIeDQDmLn-xHdx71zeA?usp=drive_link |  
 
 [Community]
 Discord | https://discord.gg/beispiel | Support, Ankündigungen und Chat
-Live-Karte | https://map.beispiel.de | Dynmap des Servers
-Regelwerk | https://beispiel.de/regeln | Bitte einmal komplett lesen
