@@ -23,8 +23,7 @@
 @intro = Folge diesen Schritten der Reihe nach. Dauert ungefähr 10 Minuten.
 @buttontext = Öffnen
 
-Minecraft starten | Öffne den Launcher und wähle die Java Edition. Für diesen Server brauchst du Version **1.21.4**. | https://www.minecraft.net/de-de/download | Minecraft
-Fabric installieren | Lade den Fabric-Installer, wähle Minecraft **1.21.4** und klicke auf Installieren. Danach erscheint ein neues Profil im Launcher. | https://fabricmc.net/use/installer/ | Fabric-Installer
-Pflicht-Mods herunterladen | Lade alle Mods aus der Liste „Notwendig“ weiter unten herunter. Sie gehören in den `mods`-Ordner deines Minecraft-Verzeichnisses. | #mods | Zur Mod-Liste
-Optionale Mods prüfen | Alles unter „Erlaubt“ darfst du nutzen, musst du aber nicht. Mods unter „Verboten“ führen zum Ausschluss.
+Minecraft starten | Öffne den Launcher und wähle die Java Edition. Für diesen Server brauchst du Version **26,3**. | https://www.minecraft.net/de-de/download | Minecraft
+Fabric installieren | Lade den Installer aus dem *Download*-Bereich herunter und starte diesen. | https://drive.google.com/drive/folders/1D2FDyHPAV2OSH_GzSdUHARrlvLTGz6VW?usp=drive_link | Fabric-Installer
+Mods herunterladen | Lade alle Mods aus der Liste weiter unten herunter und verschiebe sie in den `mods`-Ordner deines Minecraft-Verzeichnisses. | #mods | Zur Mod-Liste
 Server hinzufügen | Starte das Fabric-Profil, gehe auf **Mehrspieler → Server hinzufügen** und trage die Server-IP von oben ein.
